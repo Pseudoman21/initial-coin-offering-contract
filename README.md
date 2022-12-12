@@ -1,4 +1,4 @@
-# Initial Coin Offering contract using hardhat
+# Initial Coin Offering contract deployed using hardhat
 
 Try running some of the following tasks:
 
